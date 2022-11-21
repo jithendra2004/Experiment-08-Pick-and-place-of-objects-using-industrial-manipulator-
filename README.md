@@ -1,3 +1,4 @@
+
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -80,6 +81,13 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
+### output video and screen shots of pick and place
+### Program:
+![prog1](https://user-images.githubusercontent.com/93427186/203047625-a41811e2-4c82-4a9a-b163-ef14204cfbf4.jpg)
+![pro2](https://user-images.githubusercontent.com/93427186/203047637-52fdf183-55ae-49b3-958a-151023f4a6ab.jpg)
+![output](https://github.com/Shaik-sameer-AIML/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/0.PNG?raw=true?raw=true)
+### Robo Action:
+![robo2](https://user-images.githubusercontent.com/93427186/203048017-73453678-b419-4e5d-9116-79883733817a.jpg)
 
 
 
@@ -97,8 +105,6 @@ and click on the connect icon
 
 
 
-
-### output video and screen shots of pick and place 
 
 
 
@@ -107,7 +113,7 @@ and click on the connect icon
 
 
 ### Results: 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
