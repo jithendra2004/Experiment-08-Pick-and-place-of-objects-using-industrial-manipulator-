@@ -83,18 +83,26 @@ and click on the connect icon
 3. click on the 
 ### output video and screen shots of pick and place
 ### Program:
-![prog1](https://user-images.githubusercontent.com/93427186/203047625-a41811e2-4c82-4a9a-b163-ef14204cfbf4.jpg)
-![pro2](https://user-images.githubusercontent.com/93427186/203047637-52fdf183-55ae-49b3-958a-151023f4a6ab.jpg)
-![output](https://github.com/Shaik-sameer-AIML/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/blob/main/0.PNG?raw=true?raw=true)
+![r11](https://user-images.githubusercontent.com/93427186/203107097-34eb698b-5eac-4853-9a77-d5e5b1c5b466.jpg)
+
+![r12](https://user-images.githubusercontent.com/93427186/203107110-4d00a763-ac82-404e-9279-5c1b6c8db31a.jpg)
+
+
+![r13](https://user-images.githubusercontent.com/93427186/203107124-18671367-6dd7-4322-bd54-dd15222d3093.jpg)
+
+
 ### Robo Action:
-![robo2](https://user-images.githubusercontent.com/93427186/203048017-73453678-b419-4e5d-9116-79883733817a.jpg)
 
 
 
+![r14](https://user-images.githubusercontent.com/93427186/203107177-503df1bf-294f-47e0-9270-227e3e03754b.jpg)
+
+
+![r15](https://user-images.githubusercontent.com/93427186/203107195-59031567-ffed-4d0a-b294-ed9d93668823.jpg)
 
 
 
-
+![r16](https://user-images.githubusercontent.com/93427186/203107210-a32bd8a2-15c4-4204-b841-f47e6e25519d.jpg)
 
 
 
